@@ -1,6 +1,6 @@
 ﻿# Sorting Algorithm Visualizer
 
-## Overview![Project thumbnails]()
+## Overview
 
  - This project is a Sorting Algorithm Visualizer built using React.js. It provides an interactive web-based platform to visualize various sorting algorithms in action.
 
