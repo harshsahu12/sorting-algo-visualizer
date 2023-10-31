@@ -1,7 +1,7 @@
 ﻿# Sorting Algorithm Visualizer
 
 ## Overview
- - This project is a Sorting Algorithm Visualizer built using HTML, CSS, and JavaScript. It provides an interactive web-based platform to visualize various sorting algorithms in action.
+ - This project is a Sorting Algorithm Visualizer built using React.js. It provides an interactive web-based platform to visualize various sorting algorithms in action.
 
 ## Features
 
